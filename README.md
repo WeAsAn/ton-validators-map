@@ -20,7 +20,7 @@ In this front-end-related project, we would like to create a map of TON Validato
   - The points are pulsating
   - The connecting lines are pulsating from point to point, thus resembling a network
 
-The best implementations might be integrated into the [ton.org website](ton.org).
+The best implementations might be integrated into the [ton.org website](https://ton.org/).
 
 ## Instructions
 
